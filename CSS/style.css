@@ -109,6 +109,16 @@ header img{
     background-color: black;
 }
 
+.fixo{
+    height: 50px;
+    background-color: blue;
+    position: absolute;
+    z-index: 2;
+    top: 880px;
+    width: 100%;
+    color: white;
+    display: flex;
+}
 
 }
 
