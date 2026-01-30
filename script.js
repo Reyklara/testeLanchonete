@@ -52,3 +52,5 @@ function comer(){
     document.querySelector("#resposta").innerHTML = `O valor do seu pedido é ${valor}.`
 }
 
+
+
