@@ -49,6 +49,6 @@ function comer(){
     if(escolha == "pizza"){
         valor = valor + 60
     }
-    document.querySelector("#resposta").innerHTML = `O valor do seu pedido é ${valor} qualquer sabor.`
+    document.querySelector("#resposta").innerHTML = `O valor do seu pedido é ${valor}.`
 }
 
