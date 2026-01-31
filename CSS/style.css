@@ -126,9 +126,67 @@ header img{
     background-color: white;
     padding-top: 10px;
     padding-bottom: 10px;
+    border: 2px solid black;
 }
 .historico img{
     border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+.historico h1{
+    padding-top: 20px;
+    font-size: 20px;
+}
+.historico button{
+    background-color: black;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    padding: 10px 10px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+.pedidosS2 h1{
+    color: orange;
+}
+.meusdadosS2{
+    padding-top: 20px;
+    text-align: center;
+}
+.meusdadosS2 .tel1{
+    width: 10%;
+}
+.meusdadosS2 .tel2{
+    width: 65%;
+    margin-left: 4%;
+}
+.meusdadosS2 .endereco{
+    width: 80%;
+}
+.meusdadosS2 .complemento{
+    width: 80%;
+}
+.meusdadosS2 .nome{
+    width: 80%;
+}
+.meusdadosS2 .cartao{
+    width: 80%;
+}
+.check {
+    text-align: left;
+    margin-left: 9%;
+}
+.meusdadosS2 button{
+    background-color: black;
+    color: white;
+    border: none;
+    width: 80%;
+    height: 40px;
+    font-size: 20px;
+}
+.meusdadosS2 button:hover{
+    background-color: rgb(1,161,52);
+    color: black;
 }
 
 }
