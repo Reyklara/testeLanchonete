@@ -114,7 +114,7 @@ header img{
     background-color: blue;
     position: absolute;
     z-index: 2;
-    top: 880px;
+   bottom: 0px;
     width: 100%;
     color: white;
     display: flex;
@@ -188,6 +188,79 @@ header img{
     background-color: rgb(1,161,52);
     color: black;
 }
+
+.meusdadosS2 input{
+    background-color: rgb(1,161,52);
+    color: black;
+}
+
+
+
+.usuario{
+    width: 50%;
+    height: 30px;
+    font-size: 20px;
+    margin-top: 10px !important; 
+    margin-bottom: 10px !important;
+}
+.senha{
+    width: 50%;
+    height: 30px;
+    font-size: 20px;
+    margin-top: 10px !important; 
+    margin-bottom: 10px !important;
+}
+.logar{
+    background-color: white;
+    border: 2px solid black;
+    color: black;
+    text-transform: uppercase;
+}
+.meusdadosS2 h1{
+    font-size: 16px;
+    margin: 5px 0;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.recolher{
+    transform: rotate(180deg);
+}
+
+.expandir{
+    transform: rotate(180deg);
+}
+
+.grupo1{
+    background-color: white;
+    border: 2px solid black;
+    margin-top: 10px;
+    width: 95%;
+    margin-left: 2.5%;
+    padding-top: 5px;
+}
+.grupo1 h1{
+    padding-top: 5px;
+    font-size: 17px;
+}
+.grupo1 .imagem1{
+    text-align: left;
+
+}
+.grupo2{
+    background-color: white;
+    border: 2px solid black;
+    margin-left: 8%;
+    padding-top: 5px;
+    font-size: 17px;
+}
+.recolher{
+    width: 90%;
+}
+
+
 
 }
 
